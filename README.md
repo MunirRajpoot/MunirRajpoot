@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munirrajpoot&label=Profile%20views&color=0e75b6&style=flat" alt="munirrajpoot" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **React and JavaScript**
 
