@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **React and JavaScript**
+- 💬 Ask me about **React Js,Next.Js and JavaScript**
 
 - 📫 How to reach me **munirrajpoot1012@gamil.com**
 
